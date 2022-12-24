@@ -1,0 +1,15 @@
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task36(Sem3)/bin/Debug/net6.0/task36(Sem3)
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task36(Sem3)/bin/Debug/net6.0/task36(Sem3).deps.json
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task36(Sem3)/bin/Debug/net6.0/task36(Sem3).runtimeconfig.json
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task36(Sem3)/bin/Debug/net6.0/task36(Sem3).dll
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task36(Sem3)/bin/Debug/net6.0/task36(Sem3).pdb
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task36(Sem3)/obj/Debug/net6.0/task36(Sem3).csproj.AssemblyReference.cache
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task36(Sem3)/obj/Debug/net6.0/task36(Sem3).GeneratedMSBuildEditorConfig.editorconfig
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task36(Sem3)/obj/Debug/net6.0/task36(Sem3).AssemblyInfoInputs.cache
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task36(Sem3)/obj/Debug/net6.0/task36(Sem3).AssemblyInfo.cs
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task36(Sem3)/obj/Debug/net6.0/task36(Sem3).csproj.CoreCompileInputs.cache
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task36(Sem3)/obj/Debug/net6.0/task36(Sem3).dll
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task36(Sem3)/obj/Debug/net6.0/refint/task36(Sem3).dll
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task36(Sem3)/obj/Debug/net6.0/task36(Sem3).pdb
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task36(Sem3)/obj/Debug/net6.0/task36(Sem3).genruntimeconfig.cache
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task36(Sem3)/obj/Debug/net6.0/ref/task36(Sem3).dll
