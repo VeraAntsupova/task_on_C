@@ -1,0 +1,15 @@
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/Seminar2/task1_случайное число и наибльшая цифра/bin/Debug/net6.0/task1_случайное число и наибльшая цифра
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/Seminar2/task1_случайное число и наибльшая цифра/bin/Debug/net6.0/task1_случайное число и наибльшая цифра.deps.json
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/Seminar2/task1_случайное число и наибльшая цифра/bin/Debug/net6.0/task1_случайное число и наибльшая цифра.runtimeconfig.json
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/Seminar2/task1_случайное число и наибльшая цифра/bin/Debug/net6.0/task1_случайное число и наибльшая цифра.dll
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/Seminar2/task1_случайное число и наибльшая цифра/bin/Debug/net6.0/task1_случайное число и наибльшая цифра.pdb
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/Seminar2/task1_случайное число и наибльшая цифра/obj/Debug/net6.0/task1_случайное число и наибльшая цифра.csproj.AssemblyReference.cache
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/Seminar2/task1_случайное число и наибльшая цифра/obj/Debug/net6.0/task1_случайное число и наибльшая цифра.GeneratedMSBuildEditorConfig.editorconfig
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/Seminar2/task1_случайное число и наибльшая цифра/obj/Debug/net6.0/task1_случайное число и наибльшая цифра.AssemblyInfoInputs.cache
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/Seminar2/task1_случайное число и наибльшая цифра/obj/Debug/net6.0/task1_случайное число и наибльшая цифра.AssemblyInfo.cs
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/Seminar2/task1_случайное число и наибльшая цифра/obj/Debug/net6.0/task1_случайное число и наибльшая цифра.csproj.CoreCompileInputs.cache
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/Seminar2/task1_случайное число и наибльшая цифра/obj/Debug/net6.0/task1_случайное число и наибльшая цифра.dll
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/Seminar2/task1_случайное число и наибльшая цифра/obj/Debug/net6.0/refint/task1_случайное число и наибльшая цифра.dll
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/Seminar2/task1_случайное число и наибльшая цифра/obj/Debug/net6.0/task1_случайное число и наибльшая цифра.pdb
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/Seminar2/task1_случайное число и наибльшая цифра/obj/Debug/net6.0/task1_случайное число и наибльшая цифра.genruntimeconfig.cache
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/Seminar2/task1_случайное число и наибльшая цифра/obj/Debug/net6.0/ref/task1_случайное число и наибльшая цифра.dll
