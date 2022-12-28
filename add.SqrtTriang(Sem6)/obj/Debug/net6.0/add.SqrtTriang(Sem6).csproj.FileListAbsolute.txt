@@ -1,0 +1,15 @@
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/add.SqrtTriang(Sem6)/bin/Debug/net6.0/add.SqrtTriang(Sem6)
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/add.SqrtTriang(Sem6)/bin/Debug/net6.0/add.SqrtTriang(Sem6).deps.json
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/add.SqrtTriang(Sem6)/bin/Debug/net6.0/add.SqrtTriang(Sem6).runtimeconfig.json
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/add.SqrtTriang(Sem6)/bin/Debug/net6.0/add.SqrtTriang(Sem6).dll
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/add.SqrtTriang(Sem6)/bin/Debug/net6.0/add.SqrtTriang(Sem6).pdb
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/add.SqrtTriang(Sem6)/obj/Debug/net6.0/add.SqrtTriang(Sem6).csproj.AssemblyReference.cache
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/add.SqrtTriang(Sem6)/obj/Debug/net6.0/add.SqrtTriang(Sem6).GeneratedMSBuildEditorConfig.editorconfig
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/add.SqrtTriang(Sem6)/obj/Debug/net6.0/add.SqrtTriang(Sem6).AssemblyInfoInputs.cache
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/add.SqrtTriang(Sem6)/obj/Debug/net6.0/add.SqrtTriang(Sem6).AssemblyInfo.cs
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/add.SqrtTriang(Sem6)/obj/Debug/net6.0/add.SqrtTriang(Sem6).csproj.CoreCompileInputs.cache
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/add.SqrtTriang(Sem6)/obj/Debug/net6.0/add.SqrtTriang(Sem6).dll
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/add.SqrtTriang(Sem6)/obj/Debug/net6.0/refint/add.SqrtTriang(Sem6).dll
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/add.SqrtTriang(Sem6)/obj/Debug/net6.0/add.SqrtTriang(Sem6).pdb
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/add.SqrtTriang(Sem6)/obj/Debug/net6.0/add.SqrtTriang(Sem6).genruntimeconfig.cache
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/add.SqrtTriang(Sem6)/obj/Debug/net6.0/ref/add.SqrtTriang(Sem6).dll
