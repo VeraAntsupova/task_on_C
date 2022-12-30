@@ -1,0 +1,15 @@
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task52(Sem7)/obj/Debug/net6.0/task52(Sem7).csproj.AssemblyReference.cache
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task52(Sem7)/obj/Debug/net6.0/task52(Sem7).GeneratedMSBuildEditorConfig.editorconfig
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task52(Sem7)/obj/Debug/net6.0/task52(Sem7).AssemblyInfoInputs.cache
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task52(Sem7)/obj/Debug/net6.0/task52(Sem7).AssemblyInfo.cs
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task52(Sem7)/obj/Debug/net6.0/task52(Sem7).csproj.CoreCompileInputs.cache
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task52(Sem7)/bin/Debug/net6.0/task52(Sem7)
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task52(Sem7)/bin/Debug/net6.0/task52(Sem7).deps.json
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task52(Sem7)/bin/Debug/net6.0/task52(Sem7).runtimeconfig.json
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task52(Sem7)/bin/Debug/net6.0/task52(Sem7).dll
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task52(Sem7)/bin/Debug/net6.0/task52(Sem7).pdb
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task52(Sem7)/obj/Debug/net6.0/task52(Sem7).dll
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task52(Sem7)/obj/Debug/net6.0/refint/task52(Sem7).dll
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task52(Sem7)/obj/Debug/net6.0/task52(Sem7).pdb
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task52(Sem7)/obj/Debug/net6.0/task52(Sem7).genruntimeconfig.cache
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task52(Sem7)/obj/Debug/net6.0/ref/task52(Sem7).dll
