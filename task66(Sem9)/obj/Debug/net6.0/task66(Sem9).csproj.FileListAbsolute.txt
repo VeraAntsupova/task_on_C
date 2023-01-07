@@ -1,0 +1,15 @@
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task66(Sem9)/obj/Debug/net6.0/task66(Sem9).csproj.AssemblyReference.cache
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task66(Sem9)/obj/Debug/net6.0/task66(Sem9).GeneratedMSBuildEditorConfig.editorconfig
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task66(Sem9)/obj/Debug/net6.0/task66(Sem9).AssemblyInfoInputs.cache
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task66(Sem9)/obj/Debug/net6.0/task66(Sem9).AssemblyInfo.cs
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task66(Sem9)/obj/Debug/net6.0/task66(Sem9).csproj.CoreCompileInputs.cache
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task66(Sem9)/bin/Debug/net6.0/task66(Sem9)
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task66(Sem9)/bin/Debug/net6.0/task66(Sem9).deps.json
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task66(Sem9)/bin/Debug/net6.0/task66(Sem9).runtimeconfig.json
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task66(Sem9)/bin/Debug/net6.0/task66(Sem9).dll
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task66(Sem9)/bin/Debug/net6.0/task66(Sem9).pdb
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task66(Sem9)/obj/Debug/net6.0/task66(Sem9).dll
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task66(Sem9)/obj/Debug/net6.0/refint/task66(Sem9).dll
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task66(Sem9)/obj/Debug/net6.0/task66(Sem9).pdb
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task66(Sem9)/obj/Debug/net6.0/task66(Sem9).genruntimeconfig.cache
+/Users/veraantsupova/GeekBrains/SeminarC#/task_on_C/task66(Sem9)/obj/Debug/net6.0/ref/task66(Sem9).dll
